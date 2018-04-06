@@ -9,7 +9,7 @@ http://www.tooplate.com/view/2081-solution
 body
 	{
 		background: #ffffff;
-        font-family: 'Raleway', sans-serif;
+        font-family: 'Raleway', sans-serif, monospace;
 		font-weight: 400;
         position: relative;
 	}
