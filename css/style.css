@@ -226,6 +226,70 @@ p
 
 /* end comissao */
 
+
+/* start minicursos*/
+#minicursos .media .media-heading
+    {
+        border-bottom: 2px solid #202020;
+        font-weight: 600;
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+#minicursos .media .fa
+    {
+    color: #f4872d;
+    font-size: 35px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    } 
+#minicursos .media .fa-cog,
+#minicursos .media .fa-laptop,
+#minicursos .media .fa-comments-o
+    {
+    margin-top: 0px;
+    } 
+#minicursos .media .media-heading
+    {
+        border-bottom: 2px solid #202020;
+        font-weight: 600;
+        font-size: 20px;
+        padding-bottom: 10px;
+    }   
+/* end minicurso */
+
+
+/* start palestras */
+#palestras .media .media-heading
+    {
+        border-bottom: 2px solid #202020;
+        font-weight: 600;
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+#palestras .media .fa
+    {
+    color: #f4872d;
+    font-size: 35px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    }
+#palestras .media .fa-cog,
+#palestras .media .fa-laptop,
+#palestras .media .fa-comments-o
+    {
+    margin-top: 0px;
+    }  
+#palestras .media .media-heading
+    {
+        border-bottom: 2px solid #202020;
+        font-weight: 600;
+        font-size: 20px;
+        padding-bottom: 10px;
+    }     
+      
+/* end palestras */
+
+
 /* start divider */
 #divider
     {
@@ -891,3 +955,29 @@ soon.css:129
     cursor: default;
 }
 /* end templatemo 360 media quires */
+
+.animated.FadeIn {
+    opacity: 1;
+    -webkit-animation-duration: .8s;
+    -moz-animation-duration: .8s;
+    -ms-animation-duration: .8s;
+    -o-animation-duration: .8s;
+    animation-duration: .8s;
+    -webkit-animation-name: FadeIn;
+    -moz-animation-name: FadeIn;
+    -o-animation-name: FadeIn;
+    animation-name: FadeIn;
+}
+
+.in_mini{
+    font-size: 20px!important;
+    color: #00dd00!important;
+    border: 1px solid;
+    padding: 5px!important;
+    border-radius: 5px!important;
+    display:inline;
+}
+
+.fadeIn a{
+    text-decoration: none; 
+}
