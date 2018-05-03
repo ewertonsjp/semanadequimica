@@ -794,6 +794,7 @@ soon.css:129
     -o-animation-fill-mode: both;
     animation-fill-mode: both;
 }
+
 @media (min-width: 750px){
     .timer_box {
     margin-left:40px;
