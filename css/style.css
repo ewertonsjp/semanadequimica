@@ -782,7 +782,7 @@ footer .social-icon
     -o-animation-name: FadeIn;
     animation-name: FadeIn;
 }
-soon.css:129
+
 .animated {
     opacity: 0;
     -webkit-animation-duration: 1s;
@@ -917,6 +917,9 @@ soon.css:129
 }
 .esp-150N{
     margin-top:-150px;
+}
+.esp-270N{
+    margin-top: -270px;
 }
 .esp-130N{
     margin-top:-130px;
