@@ -449,7 +449,8 @@ p
 #pricing .plan
   {
     border: 1px solid #f6f6f6;
-    margin-top: 100px;
+    margin-top: 80px;
+    margin-bottom: -70px;
     transition: all 0.4s ease-in;
     padding: 40px;
   }
@@ -479,7 +480,7 @@ p
   {
     border-bottom: 1px solid #f6f6f6;
     color: #9bc848;
-    font-size: 30px;
+    font-size: 40px;
     padding: 20px;
   }
 #pricing .plan ul
@@ -502,11 +503,6 @@ p
     margin-top: 20px;
     margin-bottom: 20px;
     transition: all 0.4s ease-in-out;
-  }
-#pricing .plan .btn:hover
-  {
-    background: #FFFFFF;
-    color: #66AF33;
   }
 /* end pricing */
 
@@ -915,11 +911,15 @@ footer .social-icon
 .esp-50{
     margin-top: 50px;
 }
+.esp-70{
+    margin-top: 70px;
+}
 .esp-150N{
     margin-top:-150px;
 }
 .esp-270N{
     margin-top: -270px;
+    margin-bottom: -150px;
 }
 .esp-130N{
     margin-top:-130px;
