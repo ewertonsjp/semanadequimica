@@ -1010,5 +1010,8 @@ footer .social-icon
 
    .fonte25 {
        font-size: 25px;
+   }
+
+   .justificado {
        text-align: justify;
    }
