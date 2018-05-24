@@ -985,3 +985,30 @@ footer .social-icon
 .fadeIn a{
     text-decoration: none; 
 }
+
+.link_:link {
+    background: #B1B1B1;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 26px;
+    border-width: 4px;
+    border-style: solid;
+    border-top-color: #DFDFDF;
+    border-right-color: #666;
+    border-bottom-color: #333;
+    border-left-color: #858585;
+   
+   }
+   
+ .link_:hover {
+    background: #B1B1B1;
+    color: #FFF;
+    font-weight: bold;
+    border-color: #B1B1B1;
+   }
+
+   .fonte25 {
+       font-size: 25px;
+       text-align: justify;
+   }
