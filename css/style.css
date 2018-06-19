@@ -841,8 +841,8 @@ footer .social-icon
         margin-left: 20px;
     }
     .go{
-        font-size: 80px;
-        margin-top: 20px
+        font-size: 60px;
+        margin-top: 30px
     }
 }
 @media screen and (orientation:portrait ) and (max-width: 740px){
